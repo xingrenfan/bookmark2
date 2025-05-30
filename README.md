@@ -13,12 +13,7 @@
   <a href="https://github.com/xingrenfan/bookmark2/issues">新建议</a>
 </p>
 
-旨在提供一个边阅读源码边做笔记但是对源码无侵入的帮助工具。视频介绍-[BiliBili](https://www.bilibili.com/video/BV1F47JzEEbz/)
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MPL License][license-shield]][license-url]
+旨在提供一个边阅读源码边做笔记但是对源码无侵入的帮助工具。视频介绍-[BiliBili](https://www.bilibili.com/video/BV1F47JzEEbz/)。当前处于内测阶段，将在6月中旬上架敬请期待。
 
 ### 新特性
 1. 在研读大型项目源码、剖析三方库代码逻辑、追踪代码执行流程等场景下非常适用
