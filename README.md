@@ -33,8 +33,9 @@ XingRenFan@hotmail.com
 
 QQ群(QQ Group)：364715152
 <p align="left">
-	<img src="./source/Group.jpg" alt="QQ Group"/>
+	<img src="./source/QQGroupFile.jpg" alt="QQ Group"/>
 </p>
+
 
 
 
